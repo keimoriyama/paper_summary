@@ -5,6 +5,7 @@ aliases:
   - "Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts"
 tags:
   - "paper"
+  - "Human-AI"
 ---
 # Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts
 

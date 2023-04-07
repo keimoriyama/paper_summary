@@ -3,7 +3,9 @@ id: "okati2021"
 aliases:
   - "okati2021"
   - "Differentiable Learning Under Triage"
-tags: []
+tags:
+  - "paper"
+  - "Human-AI"
 ---
 # Differentiable Learning Under Triage
 

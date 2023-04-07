@@ -3,7 +3,8 @@ id: "hongli2021"
 aliases:
   - "HongLi2021"
   - "Universal Representation Learning from Multiple Domains for Few-shot Classification"
-tags: []
+tags:
+  - "paper"
 ---
 
 # Universal Representation Learning from Multiple Domains for Few-shot Classification

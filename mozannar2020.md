@@ -5,6 +5,7 @@ aliases:
   - "Consistent Estimators for Learning to Defer to an Expert"
 tags:
   - "paper"
+  - "Human-AI"
 ---
 
 # Consistent Estimators for Learning to Defer to an Expert

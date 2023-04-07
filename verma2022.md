@@ -3,7 +3,9 @@ id: "verma2022"
 aliases:
   - "verma2022"
   - "Calibrated Learning to Defer with One-vs-All Classifiers"
-tags: []
+tags:
+  - "paper"
+  - "Human-AI"
 ---
 # Calibrated Learning to Defer with One-vs-All Classifiers
 
