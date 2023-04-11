@@ -5,6 +5,7 @@ aliases:
   - "Learning to Defer to Multiple Experts: Consistent Surrogate Losses, Confidence Calibration, and Conformal Ensembles"
 tags:
   - "paper"
+  - "Human-AI"
 ---
 # Learning to Defer to Multiple Experts: Consistent Surrogate Losses, Confidence Calibration, and Conformal Ensembles
 
