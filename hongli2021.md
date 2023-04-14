@@ -5,6 +5,7 @@ aliases:
   - "Universal Representation Learning from Multiple Domains for Few-shot Classification"
 tags:
   - "paper"
+  - "multi_domain"
 ---
 
 # Universal Representation Learning from Multiple Domains for Few-shot Classification
