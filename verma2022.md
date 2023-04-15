@@ -6,6 +6,7 @@ aliases:
 tags:
   - "paper"
   - "Human-AI"
+  - "L2D"
 ---
 # Calibrated Learning to Defer with One-vs-All Classifiers
 

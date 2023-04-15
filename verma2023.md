@@ -6,6 +6,7 @@ aliases:
 tags:
   - "paper"
   - "Human-AI"
+  - "L2D"
 ---
 # Learning to Defer to Multiple Experts: Consistent Surrogate Losses, Confidence Calibration, and Conformal Ensembles
 

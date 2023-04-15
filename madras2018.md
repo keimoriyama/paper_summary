@@ -6,6 +6,7 @@ aliases:
 tags:
   - "paper"
   - "Human-AI"
+  - "L2D"
 ---
 
 # Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer

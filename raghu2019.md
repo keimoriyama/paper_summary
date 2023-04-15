@@ -6,6 +6,7 @@ aliases:
 tags:
   - "Human-AI"
   - "paper"
+  - "L2D"
 ---
 # The Algorithmic Automation Problem: Prediction, Triage, and Human Effort
 

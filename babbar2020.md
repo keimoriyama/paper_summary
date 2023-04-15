@@ -6,6 +6,7 @@ aliases:
 tags:
   - "paper"
   - "Human-AI"
+  - "CP"
 ---
 
 # On the Utility of Prediction Sets in Human-AI Teams
@@ -19,7 +20,7 @@ CPが出力するラベル数は大きくなる傾向があるという課題が
 ## 関連研究との違いは？
 
 [[vovk2005|vovk2005]]らが提案したConformal Predictionは近年興味をもたれつつある。
-これ以外のCPベースの手法として、[[stutz2022]]や[[romano2020]],[[[[angelopoulos2020|angelopoulos2020]]]],[[[[sadinle2016|sadinle2016]]]]がある。
+これ以外のCPベースの手法として、[[stutz2022]]や[[romano2020]],[[angelopoulos2020|angelopoulos2020]]がある。
 マルチクラス分類を扱った手法として、[[mozannar2020]]や[[okati2021]],[[wilder2020]]がある。
 
 これらの手法は全て、AIがどのデータについて予測するかを選択する手法になっているが、この研究では、人間に予測を依頼する際に、データだけではなく予測の候補も提示するような手法になっている。

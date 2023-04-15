@@ -6,6 +6,7 @@ aliases:
 tags:
   - "paper"
   - "Human-AI"
+  - "L2D"
 ---
 
 # Consistent Estimators for Learning to Defer to an Expert
