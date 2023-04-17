@@ -19,7 +19,7 @@ CPが出力するラベル数は大きくなる傾向があるという課題が
 
 ## 関連研究との違いは？
 
-[[vovk2005|vovk2005]]らが提案したConformal Predictionは近年興味をもたれつつある。
+[[vovk2005]]らが提案したConformal Predictionは近年興味をもたれつつある。
 これ以外のCPベースの手法として、[[stutz2022]]や[[romano2020]],[[angelopoulos2020|angelopoulos2020]]がある。
 マルチクラス分類を扱った手法として、[[mozannar2020]]や[[okati2021]],[[wilder2020]]がある。
 
