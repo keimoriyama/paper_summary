@@ -4,7 +4,6 @@ aliases:
   - "Raghu2019"
   - "The Algorithmic Automation Problem: Prediction, Triage, and Human Effort"
 tags:
-  - "Human-AI"
   - "paper"
   - "L2D"
 ---

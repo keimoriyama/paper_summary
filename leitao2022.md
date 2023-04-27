@@ -5,7 +5,6 @@ aliases:
   - "Human-AI Collaboration in Decision-Making: Beyond Learning to Defer"
 tags:
   - "paper"
-  - "Human-AI"
   - "L2D"
 ---
 # Human-AI Collaboration in Decision-Making: Beyond Learning to Defer

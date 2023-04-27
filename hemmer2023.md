@@ -6,7 +6,6 @@ aliases:
 tags:
   - "paper"
   - "L2D"
-  - "Human-AI"
 ---
 
 # Learning to Defer with Limited Expert Predictions

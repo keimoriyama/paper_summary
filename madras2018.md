@@ -5,7 +5,6 @@ aliases:
   - "Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer"
 tags:
   - "paper"
-  - "Human-AI"
   - "L2D"
 ---
 
