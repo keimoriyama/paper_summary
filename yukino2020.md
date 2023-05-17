@@ -5,7 +5,7 @@ aliases:
   - "CrowDEA: Multi-view Idea Prioritization with Crowds"
 tags:
   - "paper"
-  - "Crowd"
+  - "Collective_inteligence"
 ---
 
 # CrowDEA: Multi-view Idea Prioritization with Crowds
